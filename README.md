@@ -1,2 +1,2 @@
 # Personal-Backup
-some personal backup sh.
+some personal backup shell.
