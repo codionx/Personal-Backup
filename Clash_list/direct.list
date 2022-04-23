@@ -8,12 +8,3 @@ DOMAIN-SUFFIX,5533.im
 DOMAIN-SUFFIX,5533.eu
 DOMAIN-SUFFIX,mrchou.com
 DOMAIN-SUFFIX,labx.me
-DOMAIN-SUFFIX,hditv.org
-DOMAIN-SUFFIX,d-net.tw
-IP-CIDR,23.237.231.11/8,no-resolve
-IP-CIDR,23.237.231.12/8,no-resolve
-IP-CIDR,23.237.231.13/8,no-resolve
-IP-CIDR,23.237.231.14/8,no-resolve
-IP-CIDR,23.237.231.101/8,no-resolve
-IP-CIDR,64.62.198.73/8,no-resolve
-IP-CIDR,216.58.220.99/8,no-resolve
