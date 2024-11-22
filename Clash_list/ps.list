@@ -1,7 +1,8 @@
 # NAME: PS
 # AUTHOR: labx
 # REPO: https://raw.githubusercontent.com/codionx/Personal-Backup/main/Clash_list/ps.list
-# UPDATED: 2024-11-22
-# DOMAIN-SUFFIX: 1
-# TOTAL: 1
+# UPDATED: 2024-11-23
+# DOMAIN-SUFFIX: 2
+# TOTAL: 2
 DOMAIN-SUFFIX,privilegemovies.com
+DOMAIN-SUFFIX,playstation-cloud.com
